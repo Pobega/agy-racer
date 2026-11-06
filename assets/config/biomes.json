@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NEO-TOKYO SUNSET (Cobalt & Golden Amber)",
+    "sky_top": [38, 78, 195],
+    "sky_horizon": [255, 175, 85],
+    "neon_primary": [0, 240, 255],
+    "neon_secondary": [255, 55, 115]
+  },
+  {
+    "name": "CYBER-SAKURA NIGHT (Deep Indigo & Electric Pink)",
+    "sky_top": [18, 14, 48],
+    "sky_horizon": [145, 42, 130],
+    "neon_primary": [255, 75, 200],
+    "neon_secondary": [0, 245, 230]
+  },
+  {
+    "name": "SOLAR CANYON (Crimson Dusk & Molten Gold)",
+    "sky_top": [68, 16, 28],
+    "sky_horizon": [245, 115, 42],
+    "neon_primary": [255, 225, 55],
+    "neon_secondary": [255, 65, 45]
+  },
+  {
+    "name": "SUB-ZERO GLACIER (Arctic Azure & Ice Cyan)",
+    "sky_top": [16, 85, 165],
+    "sky_horizon": [175, 238, 255],
+    "neon_primary": [60, 250, 255],
+    "neon_secondary": [70, 130, 255]
+  },
+  {
+    "name": "TOXIC REACTOR (Obsidian Slate & Acid Emerald)",
+    "sky_top": [12, 28, 22],
+    "sky_horizon": [45, 135, 85],
+    "neon_primary": [75, 255, 110],
+    "neon_secondary": [240, 255, 50]
+  }
+]

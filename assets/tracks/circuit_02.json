@@ -1,0 +1,305 @@
+{
+  "name": "NEON CYLINDER GP - CIRCUIT 02",
+  "author": "AGY-RACER",
+  "sky_top": [
+    12,
+    16,
+    42
+  ],
+  "sky_horizon": [
+    58,
+    24,
+    92
+  ],
+  "neon_primary": [
+    0,
+    240,
+    255
+  ],
+  "neon_secondary": [
+    255,
+    55,
+    175
+  ],
+  "scenery_towers": [
+    {
+      "pos": [-85.0, 10.0, 80.0],
+      "size": [28.0, 110.0, 28.0],
+      "has_spire": true
+    },
+    {
+      "pos": [75.0, 5.0, 140.0],
+      "size": [24.0, 95.0, 24.0],
+      "has_spire": true
+    },
+    {
+      "pos": [-60.0, 25.0, 260.0],
+      "size": [34.0, 140.0, 34.0],
+      "has_spire": true
+    },
+    {
+      "pos": [110.0, 15.0, 460.0],
+      "size": [32.0, 120.0, 32.0],
+      "has_spire": true
+    },
+    {
+      "pos": [260.0, 30.0, 470.0],
+      "size": [40.0, 150.0, 30.0],
+      "has_spire": true
+    },
+    {
+      "pos": [420.0, 20.0, 410.0],
+      "size": [30.0, 130.0, 30.0],
+      "has_spire": true
+    },
+    {
+      "pos": [580.0, 25.0, 260.0],
+      "size": [38.0, 145.0, 38.0],
+      "has_spire": true
+    },
+    {
+      "pos": [590.0, 10.0, 90.0],
+      "size": [30.0, 115.0, 30.0],
+      "has_spire": true
+    },
+    {
+      "pos": [520.0, 5.0, -90.0],
+      "size": [32.0, 105.0, 32.0],
+      "has_spire": true
+    },
+    {
+      "pos": [370.0, 15.0, -220.0],
+      "size": [36.0, 125.0, 36.0],
+      "has_spire": true
+    },
+    {
+      "pos": [210.0, 10.0, -240.0],
+      "size": [28.0, 110.0, 28.0],
+      "has_spire": true
+    },
+    {
+      "pos": [60.0, 5.0, -210.0],
+      "size": [26.0, 100.0, 26.0],
+      "has_spire": true
+    },
+    {
+      "pos": [-80.0, 0.0, -90.0],
+      "size": [30.0, 95.0, 30.0],
+      "has_spire": true
+    },
+    {
+      "pos": [240.0, 35.0, 120.0],
+      "size": [45.0, 160.0, 45.0],
+      "has_spire": true
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "name": "Main Circuit",
+      "closed_loop": true,
+      "points": [
+        {
+          "pos": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "roll_deg": 0.0,
+          "width": 28.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            0.0,
+            0.0,
+            140.0
+          ],
+          "roll_deg": 0.0,
+          "width": 28.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            45.0,
+            12.0,
+            290.0
+          ],
+          "roll_deg": -18.0,
+          "width": 30.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            175.0,
+            24.0,
+            390.0
+          ],
+          "roll_deg": -24.0,
+          "width": 32.0,
+          "curvature": 0.35,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            330.0,
+            26.0,
+            380.0
+          ],
+          "roll_deg": 0.0,
+          "width": 38.0,
+          "curvature": 0.55,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            460.0,
+            24.0,
+            270.0
+          ],
+          "roll_deg": 0.0,
+          "width": 44.0,
+          "curvature": 1.0,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            500.0,
+            16.0,
+            110.0
+          ],
+          "roll_deg": 12.0,
+          "width": 34.0,
+          "curvature": 0.4,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            440.0,
+            4.0,
+            -40.0
+          ],
+          "roll_deg": 18.0,
+          "width": 30.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            300.0,
+            -4.0,
+            -140.0
+          ],
+          "roll_deg": 16.0,
+          "width": 30.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            140.0,
+            -2.0,
+            -160.0
+          ],
+          "roll_deg": 8.0,
+          "width": 28.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "RechargeStrip"
+        },
+        {
+          "pos": [
+            25.0,
+            0.0,
+            -110.0
+          ],
+          "roll_deg": 14.0,
+          "width": 28.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        }
+      ],
+      "next_segments": [
+        0
+      ],
+      "parent_anchor": null
+    },
+    {
+      "id": 1,
+      "name": "Sky Overpass Split",
+      "closed_loop": false,
+      "points": [
+        {
+          "pos": [
+            465.0,
+            22.0,
+            40.0
+          ],
+          "roll_deg": 0.0,
+          "width": 22.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            315.0,
+            32.0,
+            -90.0
+          ],
+          "roll_deg": 10.0,
+          "width": 22.0,
+          "curvature": 0.0,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "RechargeStrip"
+        },
+        {
+          "pos": [
+            150.0,
+            4.0,
+            -150.0
+          ],
+          "roll_deg": 0.0,
+          "width": 24.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        }
+      ],
+      "next_segments": [
+        0
+      ],
+      "parent_anchor": [
+        0,
+        6
+      ]
+    }
+  ]
+}

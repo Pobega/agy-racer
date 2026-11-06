@@ -1,0 +1,4 @@
+/target
+assets/tracks/*_ghost.json
+.DS_Store
+*.swp

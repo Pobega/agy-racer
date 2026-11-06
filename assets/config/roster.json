@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "PLAYER 1",
+    "primary_color": [235, 245, 255],
+    "accent_color": [0, 235, 255],
+    "start_s": 12.0,
+    "start_r": -3.5,
+    "is_ai": false
+  },
+  {
+    "id": 1,
+    "name": "FEISAR-X",
+    "primary_color": [255, 195, 35],
+    "accent_color": [35, 150, 255],
+    "start_s": 18.0,
+    "start_r": 3.5,
+    "is_ai": true
+  },
+  {
+    "id": 2,
+    "name": "AG-SYS",
+    "primary_color": [255, 55, 95],
+    "accent_color": [255, 240, 240],
+    "start_s": 24.0,
+    "start_r": -3.5,
+    "is_ai": true
+  },
+  {
+    "id": 3,
+    "name": "QIREX-ZERO",
+    "primary_color": [175, 65, 255],
+    "accent_color": [80, 255, 190],
+    "start_s": 30.0,
+    "start_r": 3.5,
+    "is_ai": true
+  }
+]

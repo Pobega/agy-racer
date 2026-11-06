@@ -1,0 +1,285 @@
+{
+  "name": "NEON CYLINDER GP - CIRCUIT 01",
+  "author": "AGY-RACER",
+  "sky_top": [
+    8,
+    10,
+    26
+  ],
+  "sky_horizon": [
+    38,
+    16,
+    64
+  ],
+  "neon_primary": [
+    0,
+    240,
+    255
+  ],
+  "neon_secondary": [
+    255,
+    45,
+    165
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "name": "Main Circuit",
+      "closed_loop": true,
+      "points": [
+        {
+          "pos": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            0.0,
+            0.0,
+            120.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            30.0,
+            8.0,
+            250.0
+          ],
+          "roll_deg": -28.0,
+          "width": 22.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            140.0,
+            22.0,
+            340.0
+          ],
+          "roll_deg": -35.0,
+          "width": 26.0,
+          "curvature": 0.55,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            280.0,
+            30.0,
+            320.0
+          ],
+          "roll_deg": 0.0,
+          "width": 34.0,
+          "curvature": 1.0,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            410.0,
+            25.0,
+            230.0
+          ],
+          "roll_deg": 20.0,
+          "width": 26.0,
+          "curvature": 0.5,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            480.0,
+            10.0,
+            90.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            490.0,
+            55.0,
+            20.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            465.0,
+            100.0,
+            60.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            440.0,
+            55.0,
+            100.0
+          ],
+          "roll_deg": 0.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            410.0,
+            14.0,
+            10.0
+          ],
+          "roll_deg": 0.0,
+          "width": 22.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            340.0,
+            20.0,
+            -90.0
+          ],
+          "roll_deg": 0.0,
+          "width": 24.0,
+          "curvature": 0.0,
+          "walls": "None",
+          "has_floor": false,
+          "surface": "Normal"
+        },
+        {
+          "pos": [
+            250.0,
+            8.0,
+            -170.0
+          ],
+          "roll_deg": 15.0,
+          "width": 24.0,
+          "curvature": 0.0,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "LowGripIce"
+        },
+        {
+          "pos": [
+            110.0,
+            5.0,
+            -180.0
+          ],
+          "roll_deg": 180.0,
+          "width": 22.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "RechargeStrip"
+        },
+        {
+          "pos": [
+            15.0,
+            2.0,
+            -110.0
+          ],
+          "roll_deg": 360.0,
+          "width": 20.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "Normal"
+        }
+      ],
+      "next_segments": [
+        0
+      ],
+      "parent_anchor": null
+    },
+    {
+      "id": 1,
+      "name": "Sky Ridge Split",
+      "closed_loop": false,
+      "points": [
+        {
+          "pos": [
+            400.0,
+            16.0,
+            0.0
+          ],
+          "roll_deg": -15.0,
+          "width": 16.0,
+          "curvature": -0.5,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "BoostPad"
+        },
+        {
+          "pos": [
+            260.0,
+            38.0,
+            -110.0
+          ],
+          "roll_deg": 0.0,
+          "width": 16.0,
+          "curvature": -0.5,
+          "walls": "None",
+          "has_floor": true,
+          "surface": "RechargeStrip"
+        },
+        {
+          "pos": [
+            115.0,
+            12.0,
+            -165.0
+          ],
+          "roll_deg": 0.0,
+          "width": 18.0,
+          "curvature": 0.0,
+          "walls": "Both",
+          "has_floor": true,
+          "surface": "BoostPad"
+        }
+      ],
+      "next_segments": [
+        0
+      ],
+      "parent_anchor": [
+        0,
+        10
+      ]
+    }
+  ]
+}
